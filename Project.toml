@@ -1,0 +1,7 @@
+name = "ReactionNetworks"
+uuid = "f015a7cf-8e7a-4de6-8ff2-90d5e7e0808d"
+authors = ["TPPrescott <tpprescott@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
